@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=endOfGame
+comment0.text=\n\ Holds\ final\ result\ of\ whether\ player\ is\ successful\ or\ not\n\n\ @author\ Anna\ C-O,\ Keer\ Sun,\ Lily\ Chu\n\ @version\ 12/07/18\n
+comment1.params=tree\ g\ w
+comment1.target=endOfGame(StoryTree,\ gamePanel,\ Wendy)
+numComments=2

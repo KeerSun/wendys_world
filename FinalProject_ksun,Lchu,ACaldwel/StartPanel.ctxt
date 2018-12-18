@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StartPanel
+comment0.text=\n\ Holds\ starting\ panel\ for\ player\ to\ begin\ the\ game\n\n\ @author\ Anna\ C-O,\ Keer\ Sun,\ Lily\ Chu\n\ @version\ 12/07/18\n
+comment1.params=gPan\ t\ w
+comment1.target=StartPanel(gamePanel,\ StoryTree,\ Wendy)
+numComments=2

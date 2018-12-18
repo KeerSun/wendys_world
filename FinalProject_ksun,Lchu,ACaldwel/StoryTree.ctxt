@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StoryTree
+comment0.text=\n\ Holds\ our\ story\ line\ that\ is\ contained\ in\ nodes\ in\ trees\n\n\ @author\ Anna\ C-O,\ Keer\ Sun,\ Lily\ Chu\n\ @version\ 12/07/18\n
+comment1.params=w
+comment1.target=StoryTree(Wendy)
+comment2.params=
+comment2.target=StoryNode\ getCurrentNode()
+comment3.params=b
+comment3.target=StoryNode\ getNextNode(boolean)
+numComments=4
